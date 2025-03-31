@@ -24,7 +24,7 @@ When the question "Why?" has simply no answer.
 Except this one:
 
 - Watches use modern technology (ARM 64 Bit processors, even quad core)
-- Watches have enough ram (2GB of DDR3 RAM)
+- Watches have enough ram (2GB of DDR4X RAM)
 - Watches have storage (32GB of eMMC storage)
 - Watches have all the connectivity youll ever need to go on social media (WLAN, BT, Cellular even)
 - Watches have enough battery
