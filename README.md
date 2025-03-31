@@ -2,6 +2,8 @@
 
 Guides for running anything on a Pixel Watch 3 but Wear OS/Android 15.
 
+![image](https://github.com/user-attachments/assets/97d9d75c-0de0-415f-980b-e6afa456614f)
+
 ## A few notes
 
 > [!NOTE]
