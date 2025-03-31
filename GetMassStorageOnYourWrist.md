@@ -4,7 +4,7 @@ Watches being advanced alien technology, you can get them into mass storage, yes
 
 Here is how:
 
-- Download the bootpkg
+- Download the [bootpkg](/bootpkg.bin)
 - 🏃‍♂️ adb reboot bootloader
 - 🏃‍♂️ fastboot getvar current-slot
     - if above says a:
